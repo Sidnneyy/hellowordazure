@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TbTEFjmi5Vr13ScPvFQUN9Rg3XMjzgyc6RLsZZiAWvg=",
+  "Source": "hellowordazure",
+  "BasePath": "_content/hellowordazure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
